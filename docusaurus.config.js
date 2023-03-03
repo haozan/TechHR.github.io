@@ -62,6 +62,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'My Site',
