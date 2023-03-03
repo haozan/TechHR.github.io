@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_hr_github_io=self.webpackChunktech_hr_github_io||[]).push([[6822],{5190:u=>{u.exports=JSON.parse('{"label":"docusaurus","permalink":"/TechHR.github.io/blog/tags/docusaurus","allTagsPath":"/TechHR.github.io/blog/tags","count":4}')}}]);

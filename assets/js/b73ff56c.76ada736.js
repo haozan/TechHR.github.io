@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_hr_github_io=self.webpackChunktech_hr_github_io||[]).push([[883],{9836:e=>{e.exports=JSON.parse('{"permalink":"/TechHR.github.io/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

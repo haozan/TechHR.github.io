@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_hr_github_io=self.webpackChunktech_hr_github_io||[]).push([[6575],{705:e=>{e.exports=JSON.parse('{"permalink":"/TechHR.github.io/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
