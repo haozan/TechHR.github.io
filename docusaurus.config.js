@@ -42,7 +42,6 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           routeBasePath: `/`,
-          includeCurrentVersion:false,
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
@@ -78,9 +77,6 @@ const config = {
           src: 'img/undraw_avatar.svg',
         },
         items: [
-          {
-            type: 'docsVersionDropdown',
-          },
           // {
           //   type: 'doc',
           //   docId: 'intro',
