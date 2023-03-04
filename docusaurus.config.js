@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: '技术招聘',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -71,19 +71,19 @@ const config = {
       },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '技术招聘',
+        title: '技术招聘指南',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/undraw_ avatar.svg',
+          src: 'img/undraw_avatar.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: '文档',
-          },
-          {to: '/blog', label: '博客', position: 'left'},
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: '文档',
+          // },
+          // {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/haozan/TechHR.github.io',
             label: 'GitHub',
