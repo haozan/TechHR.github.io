@@ -1,8 +1,10 @@
 ---
+title: 关于
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# test
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

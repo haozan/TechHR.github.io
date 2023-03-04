@@ -41,6 +41,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          routeBasePath: `/`,
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
@@ -73,16 +74,16 @@ const config = {
         title: '技术招聘',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/undraw_ avatar.svg',
+          src: 'img/undraw_avatar.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: '文档',
-          },
-          {to: '/blog', label: '博客', position: 'left'},
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: '文档',
+          // },
+          // {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/haozan/TechHR.github.io',
             label: 'GitHub',
