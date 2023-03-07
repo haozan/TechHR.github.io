@@ -43,15 +43,15 @@ const config = {
           // Remove this to remove the "edit this page" links.
           routeBasePath: '/',
           includeCurrentVersion:false,
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -101,38 +101,38 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: '技术招聘指南',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '关于',
+                to: '/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               // {
               //   label: 'Stack Overflow',
               //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               // },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: '公众号',
+                href: 'https://mp.weixin.qq.com/s?__biz=MjM5NTMwODEyNw==&mid=2247488047&idx=1&sn=1a5ed166b2dd85281fbb1f8a40a0d164&chksm=a6fb251f918cac09767818d6db3e198d9f22515b92363abc543261ffc4cbcc8ccb7c9df70eaa&token=1126084034&lang=zh_CN#rd',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              // {
+              //   label: 'Twitter',
+              //   href: 'https://twitter.com/docusaurus',
+              // },
             ],
           },
           {
             title: '更多',
             items: [
-              {
-                label: '博客',
-                to: '/blog',
-              },
+              // {
+              //   label: '博客',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/haozan/TechHR.github.io',
@@ -140,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Hao Zan, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hao Zan, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,

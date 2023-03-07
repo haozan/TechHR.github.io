@@ -1,17 +1,16 @@
 ---
-sidebar_position: 7
+sidebar_position: 1
 ---
 
-# 3 种科学方法，帮你有效评估技术候选人？
+# 如何科学有效评估技术候选人？
 
-> 你好，我是镐赞。我曾在法律行业工作，现在致力于技术招聘领域的深入研究。通过我的专业知识和经验，我可以为您提供有价值的技术招聘干货，并帮助您建立更有效的招聘流程，以招到高绩效的程序员。
-
-- [3 种科学方法](#3-种科学方法)
-- [基础：权威研究](#基础权威研究)
-- [方法一：工程实战](#方法一工程实战)
-- [方法二：结构化面试](#方法二结构化面试)
-- [方法三：预面试](#方法三预面试)
-- [总结](#总结)
+- [如何科学有效评估技术候选人？](#如何科学有效评估技术候选人)
+  - [3 种科学方法](#3-种科学方法)
+  - [基础：权威研究](#基础权威研究)
+  - [方法一：工程实战](#方法一工程实战)
+  - [方法二：结构化面试](#方法二结构化面试)
+  - [方法三：预面试](#方法三预面试)
+  - [总结](#总结)
 
 
 > 技术从业 10 年，很难有 1 件事和技术招聘一样能让我「不舒服但又无可奈何」了。——知乎@郑海波（网易云音乐 前端工程师）
@@ -93,7 +92,7 @@ Schmidt 和 Hunter 的研究是基于大规模的元分析（meta-analysis）对
 
 我来为你演示：
 
-
+<iframe src="//player.bilibili.com/player.html?aid=352324381&bvid=BV1rX4y1X78G&cid=1021452770&autoplay=false&preload=none&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500px"> </iframe>
 
 在 19 种评估方法中，工作样本测试的有效性排名第一。可以预见，程序员的技能评估方法，工程实战将是首选。
 
@@ -128,6 +127,7 @@ Schmidt 和 Hunter 的研究是基于大规模的元分析（meta-analysis）对
 
 ![演示：结构化面试](https://ipic.qinglion.com/20230222123046)
 
+<iframe src="//player.bilibili.com/player.html?aid=652366016&bvid=BV1GY4y1U7XB&cid=1021474231&autoplay=false&preload=none&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500px"> </iframe>
 
 结构化面试已经是被证实的，科学有效的评估方法，而非结构化面试则是比较不可靠的方法。两者相比，你会选择哪一个？
 
@@ -188,7 +188,7 @@ Schmidt 和 Hunter 的研究是基于大规模的元分析（meta-analysis）对
 针对预面试，我为你做了一段视频：
 
 
-<iframe src="//player.bilibili.com/player.html?aid=652366016&bvid=BV1GY4y1U7XB&cid=1021474231&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500px"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=225327622&bvid=BV1Db411D7mB&cid=1032626311&autoplay=false&preload=none&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500px"> </iframe>
 
 
 ## 总结
