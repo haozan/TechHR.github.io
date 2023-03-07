@@ -70,7 +70,7 @@ const config = {
           autoCollapseCategories: true,
         },
       },
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/docusaurus-social-card.png',
       navbar: {
         title: '技术招聘指南',
         logo: {
