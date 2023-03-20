@@ -1,7 +1,6 @@
-
-
 ---
 sidebar_position: 2
+title: 我不会编程，但 LeetCode 我能刷 100分！揭秘我的秘诀
 ---
 
 
