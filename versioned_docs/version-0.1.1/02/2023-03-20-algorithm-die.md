@@ -57,12 +57,12 @@ Homebrew 的创始人因为无法解决一个 LeetCode 问题而被谷歌拒绝�
 
 第一，技术「八股文」的试题已经非常没有意义了，答案都在 New Bing。
 
-就如 Ruby on Rails 创造者 HDD 所说：
+就如 Ruby on Rails 创造者 DHH 所说：
 
 > Hello，我的名字是 David。我无法在白板上写出冒泡排序。我经常在互联网上查找代码。我不做谜语。
 > 
 
-![ HDD ](https://ipic.qinglion.com/20230322122824)
+![ DHH ](https://ipic.qinglion.com/20230322122824)
 
 第二，用算法题招人，效果越来越差，意义也不大了。真实原因是候选人可以无限刷题，这是在考记忆力，而不是解决问题。通过算法题招人，很容易失真。
 
