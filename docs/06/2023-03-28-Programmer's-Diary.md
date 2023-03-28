@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: GPT-4 发布后，程序员日记，藏着什么秘密？
 ---
 
